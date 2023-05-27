@@ -1,0 +1,97 @@
+<rss version="2.0">
+  <channel>
+    <title>Infogempa</title>
+    <description>Informasi Gempa Bumi</description>
+    <link>https://www.infogempa.net</link>
+    <item>
+      <title>Gempa 25 Mei 2023</title>
+      <description>Magnitude 5.0 - Wilayah: 98 km BaratDaya KUTASELATAN-BALI</description>
+      <pubDate>Wed, 24 May 2023 19:57:22 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/25-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 24 Mei 2023</title>
+      <description>Magnitude 6.2 - Wilayah: 203 km BaratLaut MALUKUTENGGARABRT</description>
+      <pubDate>Tue, 23 May 2023 15:49:34 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/24-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 24 Mei 2023</title>
+      <description>Magnitude 5.1 - Wilayah: 272 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT</description>
+      <pubDate>Tue, 23 May 2023 00:44:07 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/24-mei-2023-2</link>
+    </item>
+    <item>
+      <title>Gempa 22 Mei 2023</title>
+      <description>Magnitude 5.1 - Wilayah: 235 km TimurLaut MALUKUBRTDAYA</description>
+      <pubDate>Sun, 21 May 2023 04:45:23 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/22-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 14 Mei 2023</title>
+      <description>Magnitude 5.9 - Wilayah: 60 km BaratDaya TERNATE-MALUT</description>
+      <pubDate>Sat, 13 May 2023 15:32:21 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/14-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 14 Mei 2023</title>
+      <description>Magnitude 5.2 - Wilayah: 89 km TimurLaut ALOR-NTT</description>
+      <pubDate>Sat, 13 May 2023 06:13:51 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/14-mei-2023-2</link>
+    </item>
+    <item>
+      <title>Gempa 14 Mei 2023</title>
+      <description>Magnitude 5.0 - Wilayah: 123 km Tenggara PACITAN-JATIM</description>
+      <pubDate>Sat, 13 May 2023 05:17:48 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/14-mei-2023-3</link>
+    </item>
+    <item>
+      <title>Gempa 14 Mei 2023</title>
+      <description>Magnitude 5.4 - Wilayah: 238 km BaratLaut PULAUKARATUNG-SULUT</description>
+      <pubDate>Fri, 12 May 2023 19:16:45 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/14-mei-2023-4</link>
+    </item>
+    <item>
+      <title>Gempa 11 Mei 2023</title>
+      <description>Magnitude 5.7 - Wilayah: 290 km BaratDaya NIASSELATAN-SUMUT</description>
+      <pubDate>Thu, 11 May 2023 14:35:57 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/11-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 10 Mei 2023</title>
+      <description>Magnitude 5.2 - Wilayah: 83 km BaratLaut SUMUR-BANTEN</description>
+      <pubDate>Wed, 10 May 2023 10:48:10 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/10-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 10 Mei 2023</title>
+      <description>Magnitude 5.4 - Wilayah: 78 km BaratLaut SUMUR-BANTEN</description>
+      <pubDate>Wed, 10 May 2023 04:24:49 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/10-mei-2023-2</link>
+    </item>
+    <item>
+      <title>Gempa 05 Mei 2023</title>
+      <description>Magnitude 5.3 - Wilayah: 111 km TimurLaut LABUANBAJO-NTT</description>
+      <pubDate>Fri, 05 May 2023 11:44:04 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/05-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 03 Mei 2023</title>
+      <description>Magnitude 5.3 - Wilayah: 47 km BaratDaya MALUKUTENGAH</description>
+      <pubDate>Wed, 03 May 2023 06:15:54 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/03-mei-2023</link>
+    </item>
+    <item>
+      <title>Gempa 03 Mei 2023</title>
+      <description>Magnitude 5.6 - Wilayah: 69 km Tenggara TAHUNA-KEP.SANGIHE-SULUT</description>
+      <pubDate>Wed, 03 May 2023 01:23:06 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/03-mei-2023-2</link>
+    </item>
+    <item>
+      <title>Gempa 30 Apr 2023</title>
+      <description>Magnitude 5.0 - Wilayah: 116 km BaratLaut KEP.ARU-MALUKU</description>
+      <pubDate>Sun, 30 Apr 2023 01:26:35 GMT</pubDate>
+      <link>https://www.infogempa.net/detail/30-apr-2023</link>
+    </item>
+  </channel>
+</rss>
